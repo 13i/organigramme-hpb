@@ -1,0 +1,119 @@
+{
+    "scene": {
+        "width": 1200,
+        "height": 800,
+        "holding": 200,
+        "brand": 150,
+        "photo": 100
+    },
+    "holding": {
+        "name": "Hermione People & Brands",
+        "logo": "hpb.svg",
+        "profiles": [
+            {
+                "name": "John DOE",
+                "position": "Directeur",
+                "photo": "1.jpg",
+                "bio": "Lorem Ipsum"
+            },
+            {
+                "name": "John DOE 2",
+                "position": "Directeur 2",
+                "photo": "2.jpg",
+                "bio": "Lorem Ipsum 2"
+            }
+        ]
+    },
+    "brands": [
+        {
+            "name": "Galeries",
+            "logo": "galeries.svg",
+            "profile": {
+                "name": "John DOE",
+                "position": "Directeur",
+                "photo": "1.jpg",
+                "bio": "Lorem Ipsum"
+            },
+            "url": "/brands/1/",
+            "photos": [
+                "/wp-content/uploads/1.jpg",
+                "/wp-content/uploads/2.jpg",
+                "/wp-content/uploads/3.jpg",
+                "/wp-content/uploads/4.jpg",
+                "/wp-content/uploads/5.jpg"
+            ]
+        },
+        {
+            "name": "GAP",
+            "logo": "galeries.svg",
+            "profile": {
+                "name": "John DOE",
+                "position": "Directeur",
+                "photo": "1.jpg",
+                "bio": "Lorem Ipsum"
+            },
+            "url": "/brands/1/",
+            "photos": [
+                "/wp-content/uploads/1.jpg",
+                "/wp-content/uploads/2.jpg",
+                "/wp-content/uploads/3.jpg",
+                "/wp-content/uploads/4.jpg",
+                "/wp-content/uploads/5.jpg"
+            ]
+        },
+        {
+            "name": "LeGall",
+            "logo": "LeGall.svg",
+            "profile": {
+                "name": "John DOE",
+                "position": "Directeur",
+                "photo": "1.jpg",
+                "bio": "Lorem Ipsum"
+            },
+            "url": "/brands/1/",
+            "photos": [
+                "/wp-content/uploads/1.jpg",
+                "/wp-content/uploads/2.jpg",
+                "/wp-content/uploads/3.jpg",
+                "/wp-content/uploads/4.jpg",
+                "/wp-content/uploads/5.jpg"
+            ]
+        },
+        {
+            "name": "La Grande Récré",
+            "logo": "LeGall.svg",
+            "profile": {
+                "name": "John DOE",
+                "position": "Directeur",
+                "photo": "1.jpg",
+                "bio": "Lorem Ipsum"
+            },
+            "url": "/brands/1/",
+            "photos": [
+                "/wp-content/uploads/1.jpg",
+                "/wp-content/uploads/2.jpg",
+                "/wp-content/uploads/3.jpg",
+                "/wp-content/uploads/4.jpg",
+                "/wp-content/uploads/5.jpg"
+            ]
+        },
+        {
+            "name": "Camaîeu",
+            "logo": "LeGall.svg",
+            "profile": {
+                "name": "John DOE",
+                "position": "Directeur",
+                "photo": "1.jpg",
+                "bio": "Lorem Ipsum"
+            },
+            "url": "/brands/1/",
+            "photos": [
+                "/wp-content/uploads/1.jpg",
+                "/wp-content/uploads/2.jpg",
+                "/wp-content/uploads/3.jpg",
+                "/wp-content/uploads/4.jpg",
+                "/wp-content/uploads/5.jpg"
+            ]
+        }
+    ]
+}
